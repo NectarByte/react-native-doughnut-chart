@@ -1,0 +1,16 @@
+{
+  "name": "react-native-doughnut-chart",
+  "version": "1.0.1",
+  "description": "A customizable and animated React Native component for creating doughnut charts with percentage display. This lightweight and easy-to-use package allows you to integrate interactive and visually appealing doughnut charts into your React Native applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "react": "18.2.0",
+    "react-native": "0.73.4",
+    "react-native-svg": "^15.0.0"
+  },
+  "author": "NectarByte",
+  "license": "ISC"
+}
