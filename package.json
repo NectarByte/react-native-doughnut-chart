@@ -6,6 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NectarByte/react-native-doughnut-chart"
+  },
   "peerDependencies": {
     "react": "18.2.0",
     "react-native": "0.73.4",
